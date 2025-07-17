@@ -102,10 +102,41 @@ Customer & Product Segmentation Analysis/
 - Doanh thu tăng từ 2.3M (2011) lên 4.3M (2014).
 - Lợi nhuận tăng từ 250K lên 500K USD → ổn định nhưng cần bứt phá.
 
+---
 ## Phân tích khách hàng
 <img width="1539" height="862" alt="image" src="https://github.com/user-attachments/assets/ba01169a-9c99-4634-895e-6e003d139502" />
+### Hướng khai thác
+- Xác định phân khúc khách hàng chính theo số lượng, doanh thu, lợi nhuận.
+- Theo dõi xu hướng tăng trưởng từng phân khúc qua các năm.
+- Phân tích **top khách hàng theo giá trị đơn hàng & chiết khấu**.
+- Hỗ trợ ra quyết định phân bổ nguồn lực và chiến lược chăm sóc.
 
+### Kết quả nổi bật
+- **Consumer** dẫn đầu về số lượng đơn hàng (12.6K/25K), doanh thu (6.5M) và lợi nhuận (0.75M).
+- **Home Office** có tỷ suất lợi nhuận cao nhất nhưng quy mô nhỏ.
+- Đơn hàng của nhóm Consumer tăng mạnh từ 4.7K (2011) lên gần 9K (2014).
+- Chi phí vận chuyển vẫn chiếm tỷ trọng lớn → cần tối ưu logistics.
+
+---
 ## Phân tích sản phẩm
 <img width="1535" height="866" alt="image" src="https://github.com/user-attachments/assets/0e97cf78-57a6-4ebc-a6b3-686d4ee86f2e" />
+### Hướng phân tích
+- Doanh thu, lợi nhuận, số sản phẩm bán ra theo từng **category**.
+- Phân tích **Top 10 sản phẩm** có doanh thu/lợi nhuận cao nhất.
+- Theo dõi xu hướng lợi nhuận từng danh mục qua các năm.
+- Phân tích tỷ lệ chiết khấu và hiệu suất từng danh mục con.
 
+### Kết quả nổi bật
+- **Technology, Office Supplies, Furniture** doanh thu gần tương đương.
+- Nhưng **biên lợi nhuận chênh lệch rõ rệt**: Tech và Office Supplies ~14%, Furniture chỉ 7%.
+- **Technology** là động lực tăng trưởng mạnh mẽ từ năm 2013 trở đi.
+- Top sản phẩm lợi nhuận cao chủ yếu thuộc nhóm công nghệ.
 
+---
+## Đề xuất chiến lược
+
+- **Tập trung vào nhóm sản phẩm lợi nhuận cao**
+- **Chăm sóc khách hàng trung thành**
+- **Tối ưu chi phí giao hàng**
+- **Rà soát nhóm sản phẩm kém hiệu quả**
+- **Tận dụng thời điểm cao điểm & hành vi theo mùa** 
