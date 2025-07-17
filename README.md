@@ -22,9 +22,9 @@ App Streamlit hiển thị:
 - Visual trực quan bằng Plotly
 ---
 **Demo Local**:
-`bash 
+``bash 
 docker pull hoanghuy2004/customer-segmentation-app
-docker run -p 8501:8501 hoanghuy2004/customer-segmentation-app # Sau đó mở trình duyệt tại: http://localhost:8501 `
+docker run -p 8501:8501 hoanghuy2004/customer-segmentation-app`` # Sau đó mở trình duyệt tại: http://localhost:8501 
 
 ---
 Customer & Product Segmentation Analysis/
