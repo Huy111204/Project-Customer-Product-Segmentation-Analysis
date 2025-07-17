@@ -75,5 +75,37 @@ Customer & Product Segmentation Analysis/
 
 
 ---
+## Phân tích tổng quan 
+<img width="1535" height="865" alt="image" src="https://github.com/user-attachments/assets/4fa9b6a6-9de0-4ca7-963c-3230ea5003e9" />
+
+### Doanh thu và lợi nhuận:
+- Doanh thu đạt **12.64 triệu USD**, lợi nhuận **1.47 triệu USD**, tỷ suất lợi nhuận chỉ **11.61%**.
+- Chi phí giao hàng (**1.35 triệu USD**) và chiết khấu cao (**7.33K USD**) là nguyên nhân làm giảm hiệu quả.
+
+### Phân khúc khách hàng:
+- **Consumer**: đóng góp **51% lợi nhuận** – nhóm cần được tập trung chăm sóc.
+- **Corporate & Home Office**: ít lợi nhuận hơn, nhưng Home Office có tỷ suất lợi nhuận cao nhất.
+
+### Nhóm sản phẩm:
+- **Technology** chiếm tỷ trọng lợi nhuận cao nhất (663K USD – 45%).
+- **Furniture** doanh thu lớn nhưng lợi nhuận thấp → cần tối ưu.
+
+### Thị trường:
+- Doanh thu tập trung tại Bắc Mỹ, châu Âu và châu Á.
+- Các thành phố lớn đóng vai trò trung tâm doanh thu.
+
+### Giao hàng:
+- **Standard Class** chiếm đa số đơn hàng → tiết kiệm chi phí là ưu tiên.
+- **First Class**, **Same Day** ít phổ biến → có thể đẩy mạnh vào nhóm khách hàng cao cấp.
+
+### Tăng trưởng qua các năm:
+- Doanh thu tăng từ 2.3M (2011) lên 4.3M (2014).
+- Lợi nhuận tăng từ 250K lên 500K USD → ổn định nhưng cần bứt phá.
+
+## Phân tích khách hàng
+<img width="1539" height="862" alt="image" src="https://github.com/user-attachments/assets/ba01169a-9c99-4634-895e-6e003d139502" />
+
+## Phân tích sản phẩm
+<img width="1535" height="866" alt="image" src="https://github.com/user-attachments/assets/0e97cf78-57a6-4ebc-a6b3-686d4ee86f2e" />
 
 
