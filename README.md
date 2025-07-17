@@ -40,12 +40,12 @@
 
 1. Mở **Terminal** hoặc **Command Prompt**
 2. Thực hiện 2 lệnh sau:
-docker pull hoanghuy2004/customer-segmentation-app
-docker run -p 8501:8501 hoanghuy2004/customer-segmentation-app 
-3. Truy cập trình duyệt tại: 👉 http://localhost:8501
+# docker pull hoanghuy2004/customer-segmentation-app
+# docker run -p 8501:8501 hoanghuy2004/customer-segmentation-app 
+3. Truy cập trình duyệt tại: http://localhost:8501
 ---
 
-## 📁 Cấu trúc thư mục dự án
+## Cấu trúc thư mục dự án
 
 <pre>
 Customer & Product Segmentation Analysis/
