@@ -105,6 +105,7 @@ Project-Customer-Product-Segmentation-Analysis/
 ---
 ## Phân tích khách hàng
 <img width="1539" height="862" alt="image" src="https://github.com/user-attachments/assets/ba01169a-9c99-4634-895e-6e003d139502" />
+
 ### Hướng khai thác
 - Xác định phân khúc khách hàng chính theo số lượng, doanh thu, lợi nhuận.
 - Theo dõi xu hướng tăng trưởng từng phân khúc qua các năm.
@@ -120,6 +121,7 @@ Project-Customer-Product-Segmentation-Analysis/
 ---
 ## Phân tích sản phẩm
 <img width="1535" height="866" alt="image" src="https://github.com/user-attachments/assets/0e97cf78-57a6-4ebc-a6b3-686d4ee86f2e" />
+
 ### Hướng phân tích
 - Doanh thu, lợi nhuận, số sản phẩm bán ra theo từng **category**.
 - Phân tích **Top 10 sản phẩm** có doanh thu/lợi nhuận cao nhất.
