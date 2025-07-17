@@ -44,7 +44,7 @@ docker run -p 8501:8501 hoanghuy2004/customer-segmentation-app
 3. Truy cập trình duyệt tại: 👉 http://localhost:8501
 ---
 
-Cấu trúc thư mục dự án
+## Cấu trúc thư mục dự án
 
 Customer & Product Segmentation Analysis/
 │
