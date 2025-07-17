@@ -48,7 +48,7 @@
 ## Cấu trúc thư mục dự án
 
 <pre>
-Customer & Product Segmentation Analysis/
+Project-Customer-Product-Segmentation-Analysis/
 │
 ├── data/                           # Dữ liệu gốc và dữ liệu sau phân cụm
 │   ├── Global_Superstore2.csv
