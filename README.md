@@ -20,13 +20,13 @@ App Streamlit hiển thị:
 - Biểu đồ phân cụm sản phẩm (DBSCAN)
 - Gợi ý chiến lược cho từng cụm
 - Visual trực quan bằng Plotly
-
+---
 **Demo Local**:
-
-```bash
+`bash 
 docker pull hoanghuy2004/customer-segmentation-app
-docker run -p 8501:8501 hoanghuy2004/customer-segmentation-app ``` # Sau đó mở trình duyệt tại: http://localhost:8501
+docker run -p 8501:8501 hoanghuy2004/customer-segmentation-app # Sau đó mở trình duyệt tại: http://localhost:8501 `
 
+---
 Customer & Product Segmentation Analysis/
 │
 ├── data/                           # Dữ liệu gốc và dữ liệu sau phân cụm
@@ -37,7 +37,7 @@ Customer & Product Segmentation Analysis/
 ├── code/                           # Notebook phân tích
 │   └── clustering_analysis.ipynb
 │
-├── Reports và Dashboard/          # Báo cáo chiến lược và Power BI
+├── Reports và Dashboard/          # Báo cáo chiến lược và Power BI ( tổng quan , khách hàng , sản phẩm ) 
 │   ├── customer_strategy_report.docx
 │   ├── product_strategy_report.docx
 │   └── Dashboard.pbix
@@ -49,6 +49,9 @@ Customer & Product Segmentation Analysis/
 │   ├── Dockerfile
 │   └── requirements.txt
 
-
+## Dashboard & Báo cáo
+customer_strategy_report.docx: Đề xuất chiến lược nhóm khách hàng
+product_strategy_report.docx: Gợi ý xử lý sản phẩm theo cụm
+Dashboard.pbix: Dashboard Power BI trực quan tổng quan , khách hàng , sản phẩm 
 
 
