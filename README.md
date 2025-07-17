@@ -1,6 +1,7 @@
 # Customer & Product Segmentation Analysis
 
 [![DockerHub](https://img.shields.io/badge/DockerHub-hoanghuy2004%2Fcustomer--segmentation--app-blue?logo=docker)](https://hub.docker.com/repository/docker/hoanghuy2004/customer-segmentation-app/general)
+<img width="618" height="615" alt="image" src="https://github.com/user-attachments/assets/60af5b51-b6b0-46a2-9233-8aea1415527c" />
 
 ### Mục tiêu nghiên cứu
 - Phân tích các chỉ số cốt lõi: doanh thu, lợi nhuận, chiết khấu, thời gian giao hàng,...
@@ -68,6 +69,8 @@ Customer & Product Segmentation Analysis/
 │   ├── product_clusters_dbscan.csv
 │   ├── Dockerfile
 │   └── requirements.txt
+│
+├── README.md                       # File hiện tại
 </pre>
 
 
