@@ -44,29 +44,30 @@ docker run -p 8501:8501 hoanghuy2004/customer-segmentation-app
 3. Truy cập trình duyệt tại: 👉 http://localhost:8501
 ---
 
-## Cấu trúc thư mục dự án
+## 📁 Cấu trúc thư mục dự án
 
 Customer & Product Segmentation Analysis/
 │
-├── data/                           # Dữ liệu gốc và dữ liệu sau phân cụm
-│   ├── Global_Superstore2.csv
-│   ├── customer_clusters_kmeans.csv
-│   └── product_clusters_dbscan.csv
+├── data/ # Dữ liệu gốc và dữ liệu sau phân cụm
+│ ├── Global_Superstore2.csv
+│ ├── customer_clusters_kmeans.csv
+│ └── product_clusters_dbscan.csv
 │
-├── code/                           # Notebook phân tích
-│   └── clustering_analysis.ipynb
+├── code/ # Notebook phân tích
+│ └── clustering_analysis.ipynb
 │
-├── Reports và Dashboard/          # Báo cáo chiến lược và Power BI 
-│   ├── customer_strategy_report.docx
-│   ├── product_strategy_report.docx
-│   └── Dashboard.pbix
+├── Reports và Dashboard/ # Báo cáo chiến lược và Power BI
+│ ├── customer_strategy_report.docx
+│ ├── product_strategy_report.docx
+│ └── Dashboard.pbix
 │
-├── app/                            # App Streamlit + Docker
-│   ├── app.py
-│   ├── customer_clusters_kmeans.csv
-│   ├── product_clusters_dbscan.csv
-│   ├── Dockerfile
-│   └── requirements.txt
+├── app/ # App Streamlit + Docker
+│ ├── app.py
+│ ├── customer_clusters_kmeans.csv
+│ ├── product_clusters_dbscan.csv
+│ ├── Dockerfile
+│ └── requirements.txt
+
 ---
 
 
