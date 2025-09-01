@@ -34,7 +34,7 @@ Links analytics with strategic business recommendations.
 | `Dashboard.pbix`               | Power BI overview |
 
 ---
-**Docker**:
+## Docker:
 
 
 ### To use
