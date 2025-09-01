@@ -27,26 +27,25 @@ Visualizes clusters via PCA, heatmaps, and scatter plots.
 Links analytics with strategic business recommendations.
 
 ## Dashboard & Báo cáo
-| File | Nội dung |
+| File | Includes |
 |------|----------|
 | `customer_strategy_report.docx` | Custom strategy per customer segment |
 | `product_strategy_report.docx`  | Tailored product segment tactics |
 | `Dashboard.pbix`               | Power BI overview |
 
 ---
-**Demo Local (sử dụng Docker)**:
-##  Demo Local (sử dụng Docker)
+**Docker**:
 
-### Hướng dẫn triển khai
 
-1. Mở **Terminal** hoặc **Command Prompt**
-2. Thực hiện 2 lệnh sau:
-- ##### docker pull hoanghuy2004/customer-segmentation-app
-- ##### docker run -p 8501:8501 hoanghuy2004/customer-segmentation-app 
-3. Truy cập trình duyệt tại: http://localhost:8501
+### To use
+
+open **Terminal** 
+##### docker pull hoanghuy2004/customer-segmentation-app
+##### docker run -p 8501:8501 hoanghuy2004/customer-segmentation-app 
+ http://localhost:8501
 ---
 
-## Cấu trúc thư mục dự án
+## Repo Structure
 
 <pre>
 Project-Customer-Product-Segmentation-Analysis/
