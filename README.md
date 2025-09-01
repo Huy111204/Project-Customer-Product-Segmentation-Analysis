@@ -26,7 +26,7 @@ Visualizes clusters via PCA, heatmaps, and scatter plots.
 
 Links analytics with strategic business recommendations.
 
-## Dashboard & Báo cáo
+## Dashboard 
 | File | Includes |
 |------|----------|
 | `customer_strategy_report.docx` | Custom strategy per customer segment |
