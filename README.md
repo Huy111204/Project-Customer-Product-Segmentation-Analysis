@@ -14,13 +14,10 @@ Dataset: Global Superstore from Kaggle ([Global Superstore Dataset (Kaggle)](htt
 
 
 ---
-## Docker:
-### To use
+# To use
 
-**Terminal** 
-##### docker pull hoanghuy2004/customer-segmentation-app
-##### docker run -p 8501:8501 hoanghuy2004/customer-segmentation-app 
- http://localhost:8501
+### docker pull hoanghuy2004/customer-segmentation-app
+### docker run -p 8501:8501 hoanghuy2004/customer-segmentation-app 
 
 ---
 ## Key Insights
