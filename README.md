@@ -1,6 +1,6 @@
 # Customer & Product Segmentation Analysis
 
-### Features
+## Features
 
 Develop an interactive Power BI dashboard.
 
@@ -11,10 +11,10 @@ Deploy results through a Streamlit web app with Docker.
 Propose business strategies based on cluster analysis.
 
 ---
-# To use
+## To use
+docker pull hoanghuy2004/customer-segmentation-app
 
-### docker pull hoanghuy2004/customer-segmentation-app
-### docker run -p 8501:8501 hoanghuy2004/customer-segmentation-app 
+docker run -p 8501:8501 hoanghuy2004/customer-segmentation-app 
 
 ---
 ## Key Insights
