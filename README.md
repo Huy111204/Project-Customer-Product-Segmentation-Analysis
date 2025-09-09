@@ -1,8 +1,5 @@
 # Customer & Product Segmentation Analysis
 
-[![DockerHub](https://img.shields.io/badge/DockerHub-hoanghuy2004%2Fcustomer--segmentation--app-blue?logo=docker)](https://hub.docker.com/repository/docker/hoanghuy2004/customer-segmentation-app/general)
-<img width="618" height="615" alt="image" src="https://github.com/user-attachments/assets/60af5b51-b6b0-46a2-9233-8aea1415527c" />
-
 ### Features
 
 Develop an interactive Power BI dashboard.
