@@ -36,22 +36,19 @@ Growth Patterns: Revenue grew from $2.3M (2011) to $4.3M (2014), profit from $0.
 ## Customer Analysis
 <img width="1539" height="862" alt="image" src="https://github.com/user-attachments/assets/ba01169a-9c99-4634-895e-6e003d139502" />
 
-
 ---
 ## Product Analysis
 <img width="1535" height="866" alt="image" src="https://github.com/user-attachments/assets/0e97cf78-57a6-4ebc-a6b3-686d4ee86f2e" />
 
-
-
 ---
 ## Strategic Recommendations
 
-Prioritize high-margin categories (Tech, Home Office).
+Prioritize high-margin categories.
 
-Cultivate the Consumer segment—most lucrative and scalable.
+Cultivate the consumer segment most lucrative and scalable.
 
 Optimize logistics and reduce discount expenses.
 
-Reevaluate low-performance segments and product lines.
+Revaluate low-performance segments and product lines.
 
 Leverage seasonal behavior and target timing for promotions
