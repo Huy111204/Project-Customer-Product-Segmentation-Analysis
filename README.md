@@ -10,9 +10,6 @@ Deploy results through a Streamlit web app with Docker.
 
 Propose business strategies based on cluster analysis.
 
-Dataset: Global Superstore from Kaggle ([Global Superstore Dataset (Kaggle)](https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset/data))
-
-
 ---
 # To use
 
